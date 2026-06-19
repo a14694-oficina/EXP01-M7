@@ -56,15 +56,3 @@ através dos links de navegação para ver os jogadores por clube ou por país.
 *   **HTML5:** Estrutura da página web.
 *   **CSS3:** Estilização e design responsivo.
 *   **JavaScript (ES6+):** Lógica da aplicação, manipulação do DOM e persistência de dados via `localStorage`.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se tiver sugestões de melhoria ou encontrar algum bug, por favor, abra uma *issue* ou envie um *pull request*.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o ficheiro `LICENSE` para mais detalhes. (Nota: O ficheiro LICENSE não foi fornecido, mas é uma boa prática incluí-lo).
-
-## Autor
-
-**Manus AI**
